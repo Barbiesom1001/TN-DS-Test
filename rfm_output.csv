@@ -1,0 +1,500 @@
+customer_id,recency,frequency,monetary,R_score,F_score,M_score,RFM_total,cluster,segment_name,action,discount,channel
+C0001,135,7,16751.2,1,3,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0002,79,1,1623.71,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0003,7,1,2180.65,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0004,164,3,8438.14,1,2,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0005,19,11,51379.880000000005,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0006,36,11,37352.090000000004,3,4,4,11,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0007,17,25,92355.35,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0008,15,3,20521.08,4,2,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0009,40,4,15339.349999999999,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0010,335,1,7000.2,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0011,37,16,83243.63,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0012,86,3,12858.17,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0013,7,2,2785.44,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0014,54,10,51160.619999999995,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0015,21,8,30571.2,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0016,16,14,72593.07,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0017,52,12,51479.26,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0018,198,3,16570.68,1,2,3,6,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0019,10,3,10721.15,5,2,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0020,67,9,42506.53,2,4,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0021,217,3,14766.8,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0022,99,10,36429.52,2,4,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0023,35,12,55863.46,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0024,3,6,25300.26,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0025,62,6,23173.07,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0026,139,1,7359.24,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0027,35,12,63220.4,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0028,12,3,7479.37,5,2,1,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0029,53,7,23452.83,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0030,6,15,65662.02,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0031,41,4,21198.4,3,2,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0032,11,12,52322.25,5,4,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0033,27,20,76355.65,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0034,172,1,2472.71,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0035,100,4,14183.09,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0036,48,3,9267.98,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0037,15,11,45699.18,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0038,11,23,92099.7,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0039,153,1,497.44,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0040,42,5,17812.35,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0041,14,8,29629.46,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0042,70,6,26588.89,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0043,12,17,70082.15,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0044,81,3,11334.95,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0045,5,14,61619.91,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0046,190,3,15411.67,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0047,13,8,22711.91,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0048,5,6,25685.17,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0049,103,7,32829.41,2,3,4,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0050,10,11,40175.28,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0051,147,2,11021.0,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0052,155,2,7112.969999999999,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0053,80,1,1941.39,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0054,97,3,4494.67,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0055,113,4,23074.05,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0056,50,3,9301.16,3,2,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0057,31,15,77162.39,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0058,33,13,60330.06,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0059,10,18,75209.35,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0060,5,11,44853.32,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0061,6,6,14720.59,5,3,2,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0062,141,8,35130.42,1,4,4,9,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0063,273,3,10260.52,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0064,2,4,17269.18,5,2,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0065,27,7,27553.059999999998,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0066,9,3,19038.18,5,2,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0067,5,14,66289.19,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0068,286,2,9333.58,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0069,13,22,85851.75,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0070,100,3,8480.07,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0071,127,1,2729.93,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0072,82,9,40597.74,2,4,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0073,2,21,87124.45,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0074,364,1,7206.0599999999995,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0075,288,1,6522.33,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0076,196,2,9592.609999999999,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0077,262,2,11509.29,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0078,17,20,91671.3,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0079,44,7,14341.82,3,3,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0080,10,8,30612.45,5,4,4,13,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0081,16,3,8882.74,4,2,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0082,65,7,34899.0,2,3,4,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0083,33,15,55902.7,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0084,42,17,58742.68,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0085,39,15,45507.21,3,5,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0086,25,14,56614.020000000004,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0087,41,2,13292.77,3,1,2,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0088,59,5,12019.04,3,3,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0089,4,4,15501.779999999999,5,2,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0090,22,3,12586.18,4,2,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0091,64,13,51347.19,2,5,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0092,11,1,2465.02,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0093,47,1,3903.57,3,1,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0094,55,6,23597.64,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0095,50,3,15333.939999999999,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0096,34,3,4287.96,3,2,1,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0097,62,4,25092.29,2,2,3,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0098,100,3,14462.7,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0099,13,21,69177.1,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0100,42,8,31427.57,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0101,16,18,65222.3,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0102,33,8,42984.11,3,4,4,11,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0103,21,14,61849.759999999995,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0104,8,5,28883.43,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0105,95,4,7969.76,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0106,11,10,65866.05,5,4,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0107,38,4,22528.129999999997,3,2,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0108,348,2,12317.99,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0109,36,8,27422.77,3,4,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0110,10,24,126292.78,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0111,14,9,40213.26,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0112,10,11,46278.840000000004,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0113,245,1,2378.43,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0114,34,1,3084.74,3,1,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0115,30,7,32432.25,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0116,52,4,18719.02,3,2,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0117,18,3,10076.95,4,2,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0118,19,13,42973.83,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0119,193,3,8980.29,1,2,1,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0120,50,3,8344.57,3,2,1,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0121,331,1,792.81,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0122,266,2,5604.87,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0123,79,7,31070.1,2,3,4,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0124,2,13,52181.47,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0125,22,8,18063.5,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0126,27,7,27908.120000000003,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0127,202,2,4273.17,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0128,132,1,3542.02,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0129,8,17,71206.26000000001,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0130,18,5,20300.55,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0131,17,7,31910.42,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0132,2,8,30734.54,5,4,4,13,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0133,50,8,27404.67,3,4,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0134,22,12,48959.53,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0135,197,3,7759.7699999999995,1,2,1,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0136,5,11,37600.78,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0137,29,8,52612.97,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0138,107,2,2472.0600000000004,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0139,48,4,25185.4,3,2,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0140,158,4,9668.84,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0141,91,1,10188.12,2,1,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0142,44,8,60470.94,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0143,79,3,7434.219999999999,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0144,24,7,23913.34,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0145,74,10,49922.35,2,4,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0146,7,12,42315.53,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0147,36,7,25068.46,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0148,51,6,25944.14,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0149,14,17,73172.63,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0150,64,13,64233.26,2,5,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0151,243,1,5542.74,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0152,33,10,40603.18,3,4,4,11,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0153,12,8,43749.92,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0154,42,7,47569.57,3,3,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0155,106,3,15504.7,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0156,26,13,50436.810000000005,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0157,57,2,10536.62,3,1,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0158,5,2,7677.47,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0159,4,10,56756.52,5,4,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0160,66,3,16681.79,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0161,11,5,30529.15,5,3,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0162,13,8,28514.97,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0163,44,7,45458.02,3,3,4,10,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0164,20,4,13624.560000000001,4,2,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0165,55,15,62483.4,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0166,10,3,16703.079999999998,5,2,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0167,25,10,55599.43,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0168,68,8,27390.81,2,4,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0169,37,15,51594.43,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0170,21,8,35104.78,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0171,214,2,14008.720000000001,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0172,6,17,63861.62,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0173,14,5,35733.54,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0174,18,13,51160.05,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0175,19,6,30467.42,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0176,24,11,53791.990000000005,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0177,237,1,5250.15,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0178,171,6,35497.92,1,3,4,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0179,289,1,1452.58,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0180,34,7,37796.45,3,3,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0181,59,8,19053.899999999998,3,4,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0182,42,12,45443.18,3,4,4,11,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0183,276,2,9488.91,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0184,145,1,426.09,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0185,43,14,57168.04,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0186,91,2,6245.06,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0187,55,3,14570.97,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0188,87,7,26823.24,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0189,29,5,16566.2,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0190,14,9,48680.33,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0191,4,22,76373.77,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0192,84,3,13278.39,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0193,3,4,23640.72,5,2,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0194,58,4,12503.8,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0195,43,12,68848.04000000001,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0196,17,12,66528.79,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0197,96,1,11199.0,2,1,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0198,174,4,13588.64,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0199,270,2,3123.6800000000003,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0200,67,1,1492.32,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0201,19,4,16151.23,4,2,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0202,36,17,78442.70999999999,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0203,23,13,58679.78,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0204,123,4,21737.36,1,2,3,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0205,45,5,17450.44,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0206,3,24,90796.73,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0207,21,7,33551.17,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0208,12,3,11666.51,5,2,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0209,6,21,103457.94,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0210,20,10,22239.37,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0211,34,7,28997.89,3,3,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0212,174,2,9890.84,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0213,317,2,2509.8500000000004,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0214,24,13,63755.71,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0215,265,1,2444.0,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0216,6,12,46916.59,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0217,7,10,36009.61,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0219,39,8,38695.119999999995,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0220,145,3,11461.89,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0221,305,2,7994.530000000001,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0222,2,6,28603.100000000002,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0223,7,19,76297.20999999999,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0224,8,6,29690.46,5,3,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0225,31,8,47335.16,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0226,4,13,54441.94,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0227,127,4,16147.350000000002,1,2,3,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0228,17,7,24064.92,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0229,161,3,8005.72,1,2,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0230,164,2,5501.2,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0231,3,3,17899.64,5,2,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0232,26,7,30609.23,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0233,79,4,9931.720000000001,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0234,19,7,33291.6,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0235,61,9,18006.35,2,4,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0236,259,2,6040.15,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0237,30,9,25091.72,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0238,4,19,89789.51999999999,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0239,11,5,19986.52,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0240,47,13,70101.54,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0241,209,2,8496.17,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0242,83,2,10780.53,2,1,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0243,102,4,18022.739999999998,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0244,13,7,15748.25,5,3,2,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0245,20,23,67700.42,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0246,225,2,3376.89,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0247,71,8,39480.090000000004,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0248,64,1,2908.7400000000002,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0249,57,4,26973.59,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0250,88,4,6136.79,2,3,1,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0251,49,12,48320.93,3,4,4,11,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0252,42,6,13100.3,3,3,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0253,245,1,1184.5500000000002,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0254,7,9,35012.75,5,4,4,13,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0255,51,10,51424.99,3,4,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0256,15,7,31653.620000000003,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0257,228,3,9228.0,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0258,17,2,10180.189999999999,4,1,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0259,62,7,29254.46,2,3,4,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0260,3,25,131227.06,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0261,149,4,2993.04,1,3,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0262,158,2,12069.71,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0263,14,13,48043.84,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0264,6,6,14087.75,5,3,2,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0265,111,2,8750.25,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0266,91,3,22667.67,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0267,276,1,1278.27,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0268,18,2,22499.68,4,1,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0269,96,5,17981.0,2,3,3,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0270,70,13,58976.51,2,5,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0271,262,1,5204.76,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0272,257,2,11618.36,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0273,44,4,10258.36,3,3,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0274,6,2,4059.67,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0275,115,7,21200.920000000002,2,4,3,9,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0276,140,5,26626.9,1,3,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0277,45,2,11647.970000000001,3,1,2,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0278,17,7,20410.03,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0279,251,3,15373.37,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0280,120,1,3434.28,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0281,69,4,15766.720000000001,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0282,58,10,31327.7,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0283,74,4,19763.75,2,3,3,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0284,39,18,55904.87,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0285,42,8,30827.670000000002,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0286,33,20,91414.69,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0287,120,7,31211.39,1,4,4,9,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0288,103,4,14832.64,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0289,17,13,58267.37,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0290,143,6,31398.8,1,3,4,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0291,14,22,87808.24,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0292,10,16,72445.35,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0293,210,2,14777.369999999999,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0294,19,4,12122.44,4,3,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0295,30,12,43331.62,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0296,27,5,20257.45,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0297,223,3,12231.439999999999,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0298,64,8,28189.24,2,4,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0299,60,6,15684.929999999998,2,3,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0300,47,22,77896.22,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0301,55,15,59738.19,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0302,17,5,11167.64,4,3,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0303,172,2,12832.369999999999,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0304,86,7,28631.43,2,4,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0305,80,2,7647.5599999999995,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0306,72,4,11595.09,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0307,17,5,22795.5,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0308,10,11,42445.29,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0309,148,3,11960.9,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0310,8,9,26756.46,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0311,70,5,27142.42,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0312,34,21,77552.31999999999,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0313,39,18,45381.17,3,5,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0314,77,3,11186.689999999999,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0315,125,1,5645.0,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0316,191,2,3304.0299999999997,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0317,16,5,11280.560000000001,4,3,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0318,3,8,36727.58,5,4,4,13,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0319,27,11,53240.25,4,4,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0320,7,12,42679.17,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0321,92,3,6252.78,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0322,67,3,9360.48,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0323,3,3,11015.45,5,2,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0324,50,8,35554.98,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0325,62,4,12774.21,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0326,158,2,14579.02,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0327,9,7,26911.89,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0328,4,7,17123.510000000002,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0329,37,4,14819.85,3,3,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0330,29,11,42783.65,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0331,104,3,10037.42,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0332,110,2,11105.68,2,1,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0333,56,15,53127.35,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0334,15,11,45247.07,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0335,8,16,75344.31,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0336,33,21,113301.44,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0337,38,2,3479.7000000000003,3,1,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0338,131,1,595.68,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0339,112,3,15525.14,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0340,6,22,69611.09,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0341,6,6,25376.19,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0342,58,7,21385.31,3,4,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0343,5,13,50373.68,5,5,4,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0344,5,6,14641.64,5,3,2,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0345,15,6,32805.82,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0346,155,3,18158.14,1,2,3,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0347,32,4,6509.960000000001,3,3,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0348,55,17,72856.91,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0349,3,7,30002.54,5,4,4,13,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0350,52,6,28803.69,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0351,38,3,22876.94,3,2,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0352,26,4,22249.98,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0353,108,1,2636.46,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0354,16,15,62267.73,4,5,5,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0355,25,16,76168.55,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0356,27,4,24416.53,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0357,18,17,78154.12,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0358,67,6,42287.87,2,3,4,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0359,90,3,19819.22,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0360,13,8,14765.2,5,4,2,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0361,20,7,40811.42,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0362,30,7,35450.47,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0363,106,5,15238.37,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0364,199,3,8932.22,1,2,1,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0365,92,1,1566.08,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0366,13,5,18931.45,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0367,233,1,1379.98,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0368,149,3,11594.029999999999,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0369,17,13,51037.29,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0370,37,24,91298.86,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0371,10,8,28735.74,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0372,10,23,74973.62,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0373,43,16,45740.5,3,5,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0374,108,2,7081.05,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0375,17,23,84999.66,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0376,11,8,26179.33,5,4,3,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0377,93,1,376.36,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0378,30,21,92284.53,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0379,319,1,1843.4,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0380,151,7,31408.05,1,4,4,9,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0381,53,7,28404.730000000003,3,4,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0382,71,2,8665.28,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0383,5,5,22666.22,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0384,48,3,5360.24,3,2,1,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0385,37,2,9493.880000000001,3,1,2,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0386,114,2,2137.65,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0387,48,14,31273.899999999998,3,5,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0388,96,8,31504.66,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0389,296,1,2139.6,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0390,45,1,2844.49,3,1,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0391,297,2,18125.78,1,1,3,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0392,202,5,24992.05,1,3,3,7,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0393,81,2,9960.84,2,1,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0394,321,1,4445.02,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0395,13,13,42653.12,5,5,4,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0396,115,3,11088.59,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0397,241,3,15698.91,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0398,65,6,15682.490000000002,2,3,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0399,83,2,5805.18,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0400,201,1,1492.32,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0401,94,14,67662.24,2,5,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0402,36,3,8675.009999999998,3,2,1,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0403,3,5,19413.129999999997,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0404,304,3,11613.79,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0405,2,14,57871.54,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0406,164,4,23039.06,1,3,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0407,35,7,44173.740000000005,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0408,4,16,97483.9,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0409,137,2,20253.36,1,1,3,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0410,6,18,71557.59,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0411,47,13,64211.31,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0412,240,2,12062.94,1,1,2,4,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0413,50,2,9210.44,3,1,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0414,101,3,18262.59,2,2,3,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0415,38,8,33290.83,3,4,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0416,99,4,21266.6,2,3,3,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0417,10,13,46705.45,5,5,4,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0418,25,10,41178.68,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0419,69,3,13282.2,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0420,130,2,12430.55,1,1,2,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0421,67,1,1037.97,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0422,81,3,12854.93,2,2,2,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0423,12,19,74378.17,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0424,71,6,16404.0,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0425,10,19,79525.94,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0426,7,4,14548.23,5,3,2,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0427,60,4,16102.34,2,3,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0428,13,2,10921.76,5,1,2,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0429,10,3,14382.32,5,2,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0430,8,14,50198.41,5,5,4,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0431,4,13,58931.29,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0432,313,1,3878.32,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0433,31,6,30443.550000000003,4,3,4,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0434,30,12,49090.79,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0435,3,19,72820.26000000001,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0436,50,3,4480.82,3,2,1,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0437,40,23,79391.06,3,5,5,13,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0438,131,2,11346.0,1,2,2,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0439,262,1,8533.47,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0440,10,19,96970.28,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0441,6,16,48712.78,5,5,4,14,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0442,28,3,8326.35,4,2,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0443,90,3,8223.83,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0444,48,3,13646.9,3,2,2,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0445,323,2,11140.45,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0446,83,2,6259.89,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0447,29,4,18722.85,4,3,3,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0448,191,3,15566.29,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0449,17,7,19651.89,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0450,28,20,67993.56,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0451,31,1,7206.0599999999995,4,1,1,6,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0452,10,2,4066.96,5,2,1,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0453,37,4,19372.0,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0454,79,1,6315.36,2,1,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0455,11,12,49955.770000000004,5,4,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0456,61,6,25889.54,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0457,6,19,82215.24,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0458,31,7,34024.28,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0459,39,15,71444.24,3,5,5,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0460,65,8,35242.62,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0461,14,15,51004.06,4,5,4,13,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0462,74,4,15464.78,2,3,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0463,98,3,3864.0699999999997,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0464,65,4,27721.8,2,3,3,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0465,13,3,7035.219999999999,5,2,1,8,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0466,31,3,2219.52,4,2,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0467,56,12,31649.72,3,5,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0468,8,1,2771.37,5,1,1,7,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0469,65,12,65890.41,2,5,5,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0470,10,4,27512.149999999998,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0471,5,15,65652.97,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0472,347,2,11193.1,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0473,9,18,74900.77,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0474,52,2,8634.44,3,2,1,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0475,60,7,26580.64,2,4,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0476,356,1,7129.08,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0477,12,15,57318.96,5,5,5,15,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0478,29,8,23665.52,4,4,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0479,155,1,1037.97,1,1,1,3,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0480,206,4,14742.810000000001,1,3,2,6,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0481,53,6,18879.14,3,3,3,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0482,68,2,6785.790000000001,2,2,1,5,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0483,36,6,30595.870000000003,3,3,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0484,68,8,40310.7,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0485,36,6,35422.69,3,3,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0486,20,4,15699.79,4,3,2,9,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0487,3,19,75685.09999999999,5,5,5,15,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0488,92,8,32548.28,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0489,50,2,11166.04,3,2,2,7,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0490,216,2,16186.04,1,2,3,6,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0491,86,7,33601.61,2,4,4,10,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0492,74,4,19028.39,2,3,3,8,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0493,30,8,29577.99,4,4,4,12,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0494,17,11,29864.2,4,4,4,12,1,💎 Loyal Customers,Cross-sell Bundle,10–15%,Email
+C0495,137,2,4063.67,1,2,1,4,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0496,4,4,16110.130000000001,5,3,3,11,2,📈 Potential Growth,Engagement Promo,15%,Line OA
+C0497,268,3,10053.85,1,2,2,5,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
+C0498,24,23,81884.48,4,5,5,14,4,🌟 Champions,VIP Early Access,5–10%,Push Notification
+C0499,136,3,20286.41,1,2,3,6,0,🌱 New / Occasional,Welcome Series,20%,SMS
+C0500,213,1,8533.47,1,1,1,3,3,😴 At Risk / Churned,Win-back Campaign,30%+,Email + SMS
