@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation & Personalized Marketing
+# Customer Segmentation & Personalized Marketing
 ### Data Science / AI Solution Proposal — SME Retail
 
 > **Proposal for:** Data Science Internship Assignment  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Business Problem
+## Business Problem
 
 SME Retail businesses typically run **one-size-fits-all promotions** — giving the same discount to every customer regardless of their behavior. This causes:
 
@@ -21,7 +21,7 @@ SME Retail businesses typically run **one-size-fits-all promotions** — giving 
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 **RFM Segmentation + K-Means Clustering + Personalized Offer Engine**
 
@@ -43,7 +43,7 @@ Data Input → RFM Features → K-Means Clustering → Segment Profiling → Off
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 ├── customer_segmentation_notebook.py   # Main notebook (paste into Colab)
@@ -59,7 +59,7 @@ Data Input → RFM Features → K-Means Clustering → Segment Profiling → Off
 
 ---
 
-## 📊 Data Plan
+## Data Plan
 
 ### Tables Used
 
@@ -92,7 +92,7 @@ sales
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. RFM Feature Engineering
 | Feature | Definition | Business Meaning |
@@ -110,15 +110,15 @@ sales
 
 | Segment | Profile | Action | Channel | Discount |
 |---|---|---|---|---|
-| 🌟 Champions | High F, High M, Low R | VIP Early Access | Push Notification | 5–10% |
-| 💎 Loyal Customers | High F, Medium R | Cross-sell Bundle | Email | 10–15% |
-| 📈 Potential Growth | Mid F, Mid M | Engagement Promo | Line OA | 15% |
-| 🌱 New / Occasional | Low F, Low R | Welcome Series | SMS | 20% |
-| 😴 At Risk / Churned | High R (dormant) | Win-back Campaign | Email + SMS | 30%+ |
+| Champions | High F, High M, Low R | VIP Early Access | Push Notification | 5–10% |
+| Loyal Customers | High F, Medium R | Cross-sell Bundle | Email | 10–15% |
+| Potential Growth | Mid F, Mid M | Engagement Promo | Line OA | 15% |
+| New / Occasional | Low F, Low R | Welcome Series | SMS | 20% |
+| At Risk / Churned | High R (dormant) | Win-back Campaign | Email + SMS | 30%+ |
 
 ---
 
-## ✅ Validation Approach
+## Validation Approach
 
 **Business Metrics**
 - Revenue Per Customer before vs after targeted promotion
@@ -137,7 +137,7 @@ sales
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 | Phase | Timeline | Activities |
 |---|---|---|
@@ -150,7 +150,7 @@ sales
 
 ---
 
-## 🤖 AI Tools Used
+## AI Tools Used
 
 | Tool | How Used | How Verified |
 |---|---|---|
@@ -160,7 +160,7 @@ sales
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **Option 1: Google Colab**
 1. Open [Google Colab](https://colab.research.google.com)
