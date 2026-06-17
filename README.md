@@ -173,7 +173,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 python customer_segmentation_notebook.py
 ```
 
-**Output files generated:**
+**Output files generated:** 
 - `eda_overview.png` — EDA charts
 - `elbow_silhouette.png` — K selection
 - `clusters_scatter.png` — Cluster visualization
